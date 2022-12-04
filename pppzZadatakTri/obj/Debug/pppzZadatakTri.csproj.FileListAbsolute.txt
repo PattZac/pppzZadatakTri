@@ -1,0 +1,6 @@
+C:\Users\unkno\source\repos\pppzZadatakTri\pppzZadatakTri\bin\Debug\pppzZadatakTri.exe.config
+C:\Users\unkno\source\repos\pppzZadatakTri\pppzZadatakTri\bin\Debug\pppzZadatakTri.exe
+C:\Users\unkno\source\repos\pppzZadatakTri\pppzZadatakTri\bin\Debug\pppzZadatakTri.pdb
+C:\Users\unkno\source\repos\pppzZadatakTri\pppzZadatakTri\obj\Debug\pppzZadatakTri.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\pppzZadatakTri\pppzZadatakTri\obj\Debug\pppzZadatakTri.exe
+C:\Users\unkno\source\repos\pppzZadatakTri\pppzZadatakTri\obj\Debug\pppzZadatakTri.pdb
